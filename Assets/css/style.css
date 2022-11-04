@@ -1,0 +1,11 @@
+.header {
+   padding: 20px;
+   background-color: #2a607c;
+   color: indianred;
+}
+
+.header h1 {
+   display: inline-block;
+   font size: 30px;
+
+}
